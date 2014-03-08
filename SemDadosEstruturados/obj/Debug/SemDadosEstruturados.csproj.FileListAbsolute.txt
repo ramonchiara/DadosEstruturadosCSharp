@@ -1,0 +1,6 @@
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Paradigmas\DadosEstruturadosCSharp\SemDadosEstruturados\bin\Debug\SemDadosEstruturados.exe.config
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Paradigmas\DadosEstruturadosCSharp\SemDadosEstruturados\bin\Debug\SemDadosEstruturados.exe
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Paradigmas\DadosEstruturadosCSharp\SemDadosEstruturados\bin\Debug\SemDadosEstruturados.pdb
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Paradigmas\DadosEstruturadosCSharp\SemDadosEstruturados\obj\Debug\SemDadosEstruturados.csprojResolveAssemblyReference.cache
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Paradigmas\DadosEstruturadosCSharp\SemDadosEstruturados\obj\Debug\SemDadosEstruturados.exe
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Paradigmas\DadosEstruturadosCSharp\SemDadosEstruturados\obj\Debug\SemDadosEstruturados.pdb

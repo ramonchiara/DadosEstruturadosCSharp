@@ -1,0 +1,5 @@
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Paradigmas\DadosEstruturadosCSharp\ComDadosEstruturados\bin\Debug\ComDadosEstruturados.exe.config
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Paradigmas\DadosEstruturadosCSharp\ComDadosEstruturados\bin\Debug\ComDadosEstruturados.exe
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Paradigmas\DadosEstruturadosCSharp\ComDadosEstruturados\bin\Debug\ComDadosEstruturados.pdb
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Paradigmas\DadosEstruturadosCSharp\ComDadosEstruturados\obj\Debug\ComDadosEstruturados.exe
+C:\Users\Ramon\Projetos\Projetos Atuais\RamonProBr\Orientação a Objetos\Paradigmas\DadosEstruturadosCSharp\ComDadosEstruturados\obj\Debug\ComDadosEstruturados.pdb
